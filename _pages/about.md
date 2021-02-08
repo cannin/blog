@@ -4,5 +4,5 @@ layout: page
 title: About me
 ---
 
-See: https://lunean.com
+See: [https://lunean.com](https://lunean.com)
 
