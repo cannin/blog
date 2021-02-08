@@ -1,14 +1,13 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
-
+title: Lunean
+description: Lunean
+author: "Augustin Luna"
 
 theme: minima
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
+twitter_username: canninl
+github_username: cannin
+linkedin_username: augustin-luna
 rss: rss
 
 # Minima: show excerpts in the frontpage
