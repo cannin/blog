@@ -142,7 +142,5 @@ Note: $(pwd) is the current directory.
 
 Template presentation embedded with debugging turned on.
 
-{% include slides.html
-  title="RStudio Presentation Tips"
-  prefix="http://slides.lunean.com/r-presentation-template/rpres"
-%}
+FIXME: RStudio Presentation Tips: http://slides.lunean.com/r-presentation-template/rpre
+

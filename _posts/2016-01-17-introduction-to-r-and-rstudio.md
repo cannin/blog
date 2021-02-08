@@ -14,7 +14,4 @@ Included in these slides are links to YouTube videos, which [cover R and RStudio
 
 After installing R, beginner users should read this [Introduction to R](http://blog.lunean.com/2016/01/18/introduction-to-r/).
 
-{% include slides.html
-  title="R and RStudio"
-  prefix="http://slides.lunean.com/uspWorkshop/installR"
-%}
+FIXME: R and RStudio: http://slides.lunean.com/uspWorkshop/installR
