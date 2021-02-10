@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive1
+title: Archive
 permalink: /archive
 ---
 
