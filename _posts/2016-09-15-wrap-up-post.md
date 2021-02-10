@@ -8,8 +8,6 @@ categories:
 author: Julia Gustavsen
 ---
 
-# Wrap up post for GSOC project using RCy3 with Cytoscape
-
 This summer I had the pleasure of working with the National Resource for Network Biology ([NRNB](http://nrnb.org/index.html) as a summer intern as part of [Google Summer of Code project](https://summerofcode.withgoogle.com/projects/#6682250145955840). For my project (described more in depth in the [previous blog post]( http://blog.lunean.com/2016/08/05/extending-rcy3-vignettes-google-summer-of-code-project/)) I wanted to make workflows for biologists to make their analyses more straightforward by using the programming language R with the Bioconductor package [RCy3](https://bioconductor.org/packages/release/bioc/html/RCy3.html).
 
 Today I want to discuss my experience with GSOC and working on my project this summer. In a forthcoming blog post I will go into more detail about the workflows that I worked on.
