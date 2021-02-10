@@ -16,4 +16,4 @@ Novice users are shown how to navigate the resulting R object to extract specifi
 
 Usage of these statistical methods for modeling can help users to understand their data sets, and these methodologies can be coupled with other aspects of [R and RStudio](http://blog.lunean.com/2016/01/17/introduction-to-r-and-rstudio/) to [develop interactive analyses using the Shiny R package](http://blog.lunean.com/2016/01/18/introduction-r-shiny/).
 
-FIXME: Statistical Methods in R: http://slides.lunean.com/uspWorkshop/statisticalMethods
+Slides: Statistical Methods: [http://slides.lunean.com/uspWorkshop/statisticalMethods.pdf](http://slides.lunean.com/uspWorkshop/statisticalMethods.pdf)

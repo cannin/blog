@@ -15,4 +15,4 @@ The CellMiner project makes much of its work transparent in the community by pro
 
 The presentation below gives a brief overview of both the CellMiner and rcellminer. One introductory topic covered in the presentation how users can use rcellminer to run a “pattern comparison” analysis to quickly identify genes that by gene expression, copy number alterations, etc. and/or compounds screened on the NCI-60 that significantly correlate with a user-defined pattern of interest over the NCI-60 (e.g. the presence of drug activity only in renal cell lines). The presentation also provides links to additional [rcellminer tutorial material](https://www.bioconductor.org/packages/release/bioc/vignettes/rcellminer/inst/doc/rcellminerUsage.html).
 
-FIXME: CellMiner and rcellminer: http://slides.lunean.com/uspWorkshop/cellminer
+Slides: CellMiner: [http://slides.lunean.com/uspWorkshop/cellminer.pdf](http://slides.lunean.com/uspWorkshop/cellminer.pdf)
