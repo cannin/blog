@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-See: https://lunean.com
+See: [https://lunean.com](https://lunean.com)
