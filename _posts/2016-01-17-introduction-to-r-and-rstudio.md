@@ -12,6 +12,6 @@ R is a powerful language and environment for statistics and scientific graphics.
 
 Included in these slides are links to YouTube videos, which [cover R and RStudio installation most operating systems](https://www.youtube.com/user/canninl), including: Windows, Mac OSX, and Ubuntu Linux. Furthermore, the videos cover how to install and configure Java for R so that users can make use of the rJava package, which is used by many R packages; rJava allows package developers to make use of existing software written in Java that can oftentimes be faster than code written in R. Proper installation of rJava requires the [manual installation of the 64-bit version Java](http://java.com/en/download/manual.jsp). By default, the [main Java download page](http://www.java.com/en/download/) gives users a 32-bit version of Java that will not work.
 
-After installing R, beginner users should read this [Introduction to R](http://blog.lunean.com/2016/01/18/introduction-to-r/).
+After installing R, beginner users should read this [Introduction to R]({% link _posts/2016-01-18-introduction-to-r.md %}).
 
 Slides: Install R: [http://slides.lunean.com/uspWorkshop/installR.pdf](http://slides.lunean.com/uspWorkshop/installR.pdf)
