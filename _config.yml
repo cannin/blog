@@ -31,6 +31,10 @@ header_pages:
   - _pages/about.md
   - _pages/archive.md
 
+header_pages:
+  - about.md
+  - archive.md
+
 include:
     - _pages
 
