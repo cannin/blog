@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: home
-title: Front Page
-list_title: Front Page
+title: Home
+list_title: Home
 ---
 
 TBA
