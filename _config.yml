@@ -2,12 +2,11 @@ title: Lunean
 description: Lunean
 author:
   name: Augustin Luna
-  email: info@lunean.com
 
 theme: minima
 
 # # Minima social links
-twitter_username: canninl
+# twitter_username: canninl
 # github_username: cannin
 # linkedin_username: augustin-luna
 # rss: rss
@@ -21,13 +20,12 @@ minima:
   date_format: "%Y-%m-%d"
 
   social_links:
-    twitter: jekyllrb
-    github: jekyll
-    stackoverflow: "11111"
+    twitter: canninl
+    github: cannin
 
   skin: red
 
-google_analytics: UA-NNNNNNNN-N
+google_analytics: UA-317478-16
 
 # Minima: custom header links
 header_pages:
